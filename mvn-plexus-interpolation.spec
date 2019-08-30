@@ -4,7 +4,7 @@
 #
 Name     : mvn-plexus-interpolation
 Version  : 1.11
-Release  : 3
+Release  : 4
 URL      : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.jar
 Source0  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.jar
 Source1  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-interpolation/1.1/plexus-interpolation-1.1.jar
